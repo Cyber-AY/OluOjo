@@ -6,7 +6,7 @@ I’m passionate about cybersecurity and always endeavour to challenge myself by
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Cyber-AY/Vulnerability-management)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -16,14 +16,9 @@ I’m passionate about cybersecurity and always endeavour to challenge myself by
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+
 [linkedin]: https://linkedin.com/in/___________
 
 <!--
