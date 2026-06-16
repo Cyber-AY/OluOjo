@@ -1,16 +1,22 @@
 # Cybersecurity Project Portfolio 🔐
 
-I’m passionate about cybersecurity and always endeavour to challenge myself by tackling complex problems through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Gradual Steps
 
 
-## ⚠️ Vulnerability Management Projects
+## Vulnerability Management Project
 
 - **[Vulnerability Management Program Implementation](https://github.com/Cyber-AY/Vulnerability-management)**
 
 
-## 🚨 Threat Hunting and Security Operations
+## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Cyber-AY/threat-hunting-scenario-tor-)**
+
+
+## Certifications
+- **[CISA](https://drive.google.com/file/d/1C9k2XQT9zPtCAToxJVjlkJDZLDe30Eb3/view?usp=sharing)**
+- **[AZ - 500](https://learn.microsoft.com/en-us/users/olusegunojo-9437/credentials/9d48bfbb38199ae5?ref=https%3A%2F%2Fwww.linkedin.com%2F)**
+- **[CCSK](https://www.credly.com/badges/d04b5164-fa82-4acc-af68-02cc6450a8b1/public_url)**
 
 <hr/>
 
